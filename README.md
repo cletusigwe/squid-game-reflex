@@ -65,3 +65,5 @@ This project is licensed under the MIT License.
 
 - Inspired by the "Red Light, Green Light" game from Squid Game
 - Built using the Raylib library, using Naylib bindings
+- Sounds from https://mixkit.co/free-sound-effects/gun/
+- Squid Game Characters from https://dundy97.itch.io/squid-game-free-2d-character-pack
