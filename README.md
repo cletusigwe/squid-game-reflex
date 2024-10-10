@@ -2,6 +2,8 @@
 
 Simple game to test your reflex inspired by the "Red Light, Green Light" challenge from Squid Game.
 
+![Game screenshot for preview](resources/preview.png)
+
 ## Description
 
 In this game, players must quickly identify and shoot the one player who continues to move when everyone else has stopped. 
@@ -20,7 +22,7 @@ In this game, players must quickly identify and shoot the one player who continu
    ```
 3. Clone this repository:
    ```
-   git clone https://github.com/cletusigwe/reflexTest.git
+   git clone https://github.com/cletusigwe/squid-game-reflex.git
    cd squid-game-reflex
    ```
 
